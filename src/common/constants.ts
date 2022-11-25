@@ -1,0 +1,9 @@
+export const NODE_ENV = 'NODE_ENV';
+export const APP_PORT = 'APP_PORT';
+export const APP_HOST = 'APP_HOST';
+export const POSTGRES_HOST = 'POSTGRES_HOST';
+export const POSTGRES_PORT = 'POSTGRES_PORT';
+export const POSTGRES_USER = 'POSTGRES_USER';
+export const POSTGRES_PASSWORD = 'POSTGRES_PASSWORD';
+export const POSTGRES_DB = 'POSTGRES_DB';
+export const CONNECTION = 'CONNECTION';
